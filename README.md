@@ -1,3 +1,11 @@
+        How to use this class 
+	1. clone the repository
+	2. create a folder medias in the same directory
+	3. then change the name of the file in the index.php
+	
+	
+	
+
 
 	THIS PHP CLASS ALLOWS A USER TO CONVERT A DOCX FILE TO AN HTML FORMAT
 	at this time this class only supports the following HTML Components
