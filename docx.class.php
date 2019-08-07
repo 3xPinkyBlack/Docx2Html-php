@@ -28,7 +28,7 @@
 	email address.
 */ 
 
-class Doc2Txt {
+class Doc2Html {
 	private $docxFileName;
 	
 	public function __construct($filePath) {
