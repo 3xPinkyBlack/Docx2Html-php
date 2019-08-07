@@ -909,7 +909,7 @@ class Doc2Txt {
 		return $html_doc;
 	}
 
-	public function convertToText() {
+	public function convertToHtml() {
 		if(isset($this->docxFileName) && !file_exists($this->docxFileName)) {
 			return "File Not exists";
 		}
