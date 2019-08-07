@@ -10,7 +10,7 @@
         require("docx.class.php");
 
         $docx = new Doc2Txt("test.docx");
-        $docx->convertToText();
+        $docx->convertToHtml();
 
     // $a1=array("a"=>"red","b"=>"green","c"=>"blue","d"=>"yellow");
     // $a2=array();
